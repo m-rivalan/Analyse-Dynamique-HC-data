@@ -2,6 +2,8 @@
 
 - [ ] Fichier 01_Data_Loading : premier jet
 - [ ] Fichier 02_Visualisation_and_Exploration : premier jet
+- [ ] Definir la correct pipeline/étapes à suivre pour obtenir nos données "propres"
+- [ ] Essayer à nouveau de faire le rebuild all-event avec le lmt-analysis officielle pour voir s'il y a d'autres différences que celles que nous avions prévu. 
 
 
 
