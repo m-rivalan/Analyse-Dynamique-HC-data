@@ -8,6 +8,7 @@
 
 
 Statistiques sur les données : 
+- [ ] Nombre de frames absentes (sans comportement) et durée de ces périodes manquées
 - [ ] Nombre d'occurence du comportement
 - [ ] Distribution de la durée des événements
 Puis dans un deuxième temps : 
